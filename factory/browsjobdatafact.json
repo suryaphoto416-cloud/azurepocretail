@@ -1,0 +1,9 @@
+{
+	"name": "browsjobdatafact",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa90af68-61c7-4192-8297-75ce880d043c",
+		"tenantId": "01819f63-542d-432b-ae1e-d373fd081caa"
+	}
+}
