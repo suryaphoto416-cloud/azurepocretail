@@ -1,0 +1,58 @@
+[
+  {
+    "customer_id": 1,
+    "customer_name": "Arun",
+    "email": "arun@gmail.com",
+    "city": "Kochi",
+    "created_date": "2024-01-10"
+  },
+  {
+    "customer_id": 2,
+    "customer_name": "Meera",
+    "email": "meera@gmail.com",
+    "city": "Calicut",
+    "created_date": "2024-01-12"
+  },
+   {
+    "customer_id": 3,
+    "customer_name": "Ceera",
+    "email": "Ceera@gmail.com",
+    "city": "Culcutta",
+    "created_date": "2024-01-10"
+  },
+   {
+    "customer_id": 4,
+    "customer_name": "Rama",
+    "email": "rama@gmail.com",
+    "city": "bombay",
+    "created_date": "2024-01-12"
+  },
+   {
+    "customer_id": 5,
+    "customer_name": "daya",
+    "email": "daya@gmail.com",
+    "city": "delhi",
+    "created_date": "2024-01-16"
+  },
+   {
+    "customer_id": 6,
+    "customer_name": "nandana",
+    "email": "nandana@gmail.com",
+    "city": "bihar",
+    "created_date": "2024-01-10"
+  },
+   {
+    "customer_id": 7,
+    "customer_name": "ramesh",
+    "email": "ramesh@gmail.com",
+    "city": "Calicut",
+    "created_date": "2024-01-19"
+  },
+   {
+    "customer_id": 8,
+    "customer_name": "raheem",
+    "email": "raheem@gmail.com",
+    "city": "Calicut",
+    "created_date": "2024-01-22"
+  }
+]
