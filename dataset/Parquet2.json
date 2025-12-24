@@ -1,0 +1,20 @@
+{
+	"name": "Parquet2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_blob_transaction",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "bronze/transaction",
+				"container": "browsjobscontainer"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
