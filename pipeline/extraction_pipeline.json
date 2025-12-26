@@ -1,5 +1,5 @@
 {
-	"name": "PL_Copy_Sales_SQL_to_Blob",
+	"name": "extraction_pipeline",
 	"properties": {
 		"activities": [
 			{
