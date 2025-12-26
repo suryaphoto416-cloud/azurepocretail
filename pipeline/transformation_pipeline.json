@@ -23,6 +23,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"load_data": {
+				"type": "string",
+				"defaultValue": "@pipeline.TriggerTime"
+			}
+		},
 		"annotations": []
 	}
 }
